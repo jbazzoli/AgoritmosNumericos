@@ -1,0 +1,1 @@
+Estude a ordem de convergência de todos os métodos numéricos estudados para os seguintes exercícios: a) Exemplo 19, pag. 79 (Ruggiero e Lopes), b) Exercício 2 da lista PDF, c) Exercício 5 da lista PDF. A lista é a mesma da atividade anterior. Faça uma descrição de todos os resultados comentando em cada caso, e para cada método, qual foi a ordem de convergência obtida.
